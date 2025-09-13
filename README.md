@@ -1,4 +1,4 @@
-# 💧 AquaSentinel: Predictive Water Safety & Treatment Guide
+# 💧 H2O Insight: Predictive Water Safety & Treatment Guide
 
 ## **Project Overview**
 **AquaSentinel** is an interactive web application built with **Streamlit** that allows users to analyze and predict the **potability of water** using both **machine learning** and **color-based pH strip detection**.  
