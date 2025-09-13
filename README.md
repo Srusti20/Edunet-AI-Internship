@@ -61,7 +61,7 @@ This tool is ideal for **home users, researchers, or field technicians** who wan
 - **Dataset:** `water_potability.csv`
 - Contains **9 water quality features** and a **Potability label (0 or 1)**.
 - Source: Public water potability datasets available on **Kaggle / UCI ML Repository**.
-
+---
 ### **Installation Instructions**
 
 ### **Installation Instructions**
@@ -88,6 +88,7 @@ pip install -r requirements.txt
 **4. Run the App**
 streamlit run app1.py
 
+---
 ### **Usage Instructions**
 
 **Basic Mode:** Enter pH and check safety.
@@ -97,6 +98,8 @@ streamlit run app1.py
 **Upload Mode:** Upload a pH strip image → View estimated pH and safety warnings.
 
 **Live Camera Mode:** Take a live photo of your pH strip → See real-time overlay with pH and warnings.
+
+---
 
 ### **Screenshots**
 
@@ -118,7 +121,7 @@ streamlit run app1.py
 <img width="939" height="756" alt="Screenshot 2025-09-13 234706" src="https://github.com/user-attachments/assets/c1c8b8f9-4288-407e-9bfd-f1b533ab536b" />
 
 
-
+---
 
 ### **Future Enhancements**
 
