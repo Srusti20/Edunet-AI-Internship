@@ -66,13 +66,13 @@ This tool is ideal for **home users, researchers, or field technicians** who wan
 
 ### **1. Create a Virtual Environment**
 ```bash
-python -m venv venv
+-python -m venv venv
 
 ## **2. Activate the Environment**
 
 **Windows:**
 ```bash
-venv\Scripts\activate
+-venv\Scripts\activate
 
 ## **3. Install Dependencies**
 
