@@ -74,17 +74,16 @@ venv\Scripts\activate
 **3. Install Dependencies**
 pip install -r requirements.txt
 
+**Example requirements.txt:**
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+- imbalanced-learn
+- opencv-python
+- matplotlib
+- seaborn
 
-### **Example requirements.txt:**
-
--streamlit
--pandas
--numpy
--scikit-learn
--imbalanced-learn
--opencv-python
--matplotlib
--seaborn
 
 **4. Run the App**
 streamlit run app1.py
