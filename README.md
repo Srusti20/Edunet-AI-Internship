@@ -62,7 +62,7 @@ This tool is ideal for **home users, researchers, or field technicians** who wan
 - Contains **9 water quality features** and a **Potability label (0 or 1)**.
 - Source: Public water potability datasets available on **Kaggle / UCI ML Repository**.
 ---
-### **Installation Instructions**
+## **Installation Instructions**
 
 ### **Installation Instructions**
 **1. Create a Virtual Environment**
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 streamlit run app1.py
 
 ---
-### **Usage Instructions**
+## **Usage Instructions**
 
 **Basic Mode:** Enter pH and check safety.
 
@@ -101,7 +101,7 @@ streamlit run app1.py
 
 ---
 
-### **Screenshots**
+## **Screenshots**
 
 ### **Basic Mode**
 <img width="1577" height="823" alt="Screenshot 2025-09-13 234212" src="https://github.com/user-attachments/assets/891eef73-ccf5-474c-8d83-a9bb8cb95599" />
@@ -123,7 +123,7 @@ streamlit run app1.py
 
 ---
 
-### **Future Enhancements**
+## **Future Enhancements**
 
 Treatment recommendations for unsafe water.
 
