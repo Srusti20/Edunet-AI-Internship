@@ -64,7 +64,7 @@ This tool is ideal for **home users, researchers, or field technicians** who wan
 
 ## **Installation Instructions**
 
-Installation Instructions
+**Installation Instructions**
 1. Create a Virtual Environment
 python -m venv venv
 
@@ -75,7 +75,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 
-Example requirements.txt:
+### **Example requirements.txt:**
 
 streamlit
 pandas
@@ -93,7 +93,7 @@ streamlit run app1.py
 The app will open in your browser (usually at http://localhost:8501
 ).
 
-Usage Instructions
+### **Usage Instructions**
 
 Basic Mode: Enter pH and check safety.
 
@@ -104,20 +104,21 @@ Upload Mode: Upload a pH strip image → View estimated pH and safety warnings.
 Live Camera Mode: Take a live photo of your pH strip → See real-time overlay with pH and warnings.
 
 Screenshots
-Basic Mode
+
+### **Basic Mode**
 <img width="1577" height="823" alt="Screenshot 2025-09-13 234212" src="https://github.com/user-attachments/assets/891eef73-ccf5-474c-8d83-a9bb8cb95599" />
 
-Advanced Mode
+### **Advanced Mode**
 <img width="1068" height="870" alt="Screenshot 2025-09-13 234459" src="https://github.com/user-attachments/assets/3042cfbb-ce95-43ce-a0f1-3ef6c5da155c" />
 
-Upload Mode
+### **Upload Mode**
 
 <img width="1000" height="499" alt="Screenshot 2025-09-13 234508" src="https://github.com/user-attachments/assets/0fecbd73-b145-4c63-8392-ad6210c89a4e" />
 <img width="1129" height="776" alt="Screenshot 2025-09-13 234529" src="https://github.com/user-attachments/assets/ce91355a-e4ba-42a0-a8ff-f1467194228c" />
 
 
 
-Live Camera Mode
+### **Live Camera Mode**
 <img width="999" height="828" alt="Screenshot 2025-09-13 234657" src="https://github.com/user-attachments/assets/6e5d7e24-e03a-46f5-8666-4e989fe8f2e7" />
 <img width="939" height="756" alt="Screenshot 2025-09-13 234706" src="https://github.com/user-attachments/assets/c1c8b8f9-4288-407e-9bfd-f1b533ab536b" />
 
