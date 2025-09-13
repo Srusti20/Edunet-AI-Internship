@@ -62,48 +62,44 @@ This tool is ideal for **home users, researchers, or field technicians** who wan
 - Contains **9 water quality features** and a **Potability label (0 or 1)**.
 - Source: Public water potability datasets available on **Kaggle / UCI ML Repository**.
 
-## **Installation Instructions**
+### **Installation Instructions**
 
-**Installation Instructions**
-1. Create a Virtual Environment
+### **Installation Instructions**
+**1. Create a Virtual Environment**
 python -m venv venv
 
-2. Activate the Environment (Windows)
+**2. Activate the Environment (Windows)**
 venv\Scripts\activate
 
-3. Install Dependencies
+**3. Install Dependencies**
 pip install -r requirements.txt
 
 
 ### **Example requirements.txt:**
 
-streamlit
-pandas
-numpy
-scikit-learn
-imbalanced-learn
-opencv-python
-matplotlib
-seaborn
+-streamlit
+-pandas
+-numpy
+-scikit-learn
+-imbalanced-learn
+-opencv-python
+-matplotlib
+-seaborn
 
-4. Run the App
+**4. Run the App**
 streamlit run app1.py
-
-
-The app will open in your browser (usually at http://localhost:8501
-).
 
 ### **Usage Instructions**
 
-Basic Mode: Enter pH and check safety.
+**Basic Mode:** Enter pH and check safety.
 
-Advanced Mode: Enter all water parameters → Predict Potability → View probability.
+**Advanced Mode**: Enter all water parameters → Predict Potability → View probability.
 
-Upload Mode: Upload a pH strip image → View estimated pH and safety warnings.
+**Upload Mode:** Upload a pH strip image → View estimated pH and safety warnings.
 
-Live Camera Mode: Take a live photo of your pH strip → See real-time overlay with pH and warnings.
+**Live Camera Mode:** Take a live photo of your pH strip → See real-time overlay with pH and warnings.
 
-Screenshots
+### **Screenshots**
 
 ### **Basic Mode**
 <img width="1577" height="823" alt="Screenshot 2025-09-13 234212" src="https://github.com/user-attachments/assets/891eef73-ccf5-474c-8d83-a9bb8cb95599" />
@@ -125,7 +121,7 @@ Screenshots
 
 
 
-Future Enhancements
+### **Future Enhancements**
 
 Treatment recommendations for unsafe water.
 
